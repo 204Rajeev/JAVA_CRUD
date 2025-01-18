@@ -1,5 +1,4 @@
 # JAVA_CRUD
-this a simple CRUD APP built using java, jdbc, jsp, servlets, javascript and for backend MySQL
 
 This is a simple yet effective CRUD (Create, Read, Update, Delete) application developed using Java technologies. The application utilizes JDBC for database connectivity and is built on JSP and Servlets for the web interface. The frontend incorporates JavaScript for interactive features, while MySQL serves as the backend database to manage data efficiently.
 
