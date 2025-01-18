@@ -9,8 +9,8 @@ This is a simple yet effective CRUD (Create, Read, Update, Delete) application d
 - Update: Modify existing records to keep data up-to-date.
 - Delete: Remove records when they are no longer needed.
 ## Technologies Used:
-Java: Core programming language for backend logic.
-JDBC: For connecting and interacting with the MySQL database.
-JSP & Servlets: For creating dynamic web pages and handling server-side logic.
-JavaScript: To enhance user interaction and experience.
-MySQL: The relational database management system for storing application data.
+- Java: Core programming language for backend logic.
+- JDBC: For connecting and interacting with the MySQL database.
+- JSP & Servlets: For creating dynamic web pages and handling server-side logic.
+- JavaScript: To enhance user interaction and experience.
+- MySQL: The relational database management system for storing application data.
